@@ -1,0 +1,10 @@
+.d1{
+    text-align: center;
+}
+.d2{
+    background-color: aquamarine;
+}
+.d3{
+    display: flex;
+justify-content: center;
+}
